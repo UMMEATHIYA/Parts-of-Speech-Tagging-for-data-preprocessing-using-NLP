@@ -13,4 +13,12 @@ on pre trained data it is not capable of scaling to newly introduced words.<br>
 <h3><b>Proposed System</b></h3>
 The objective of this paper is to increase automaticity and maintain high precision, while limiting the size of human made corpus. In my current work we approach the
 task of POS tagging as an optimization problem.<br>
-
+<h3><b>System Design</b></h3>
+<h4><b>i)Tokenization</b></h4>
+Tokenization is process of dividing the stream of text entered by the user into individual group of words/ phrases/ symbols which give a meaningful elements. These
+process of division is the initial step which is further taken as the next level for the preprocessing. Tokenization is also referred to as text segmentation or
+lexical analysis.<br>
+<h4><b>ii)Lemmatization</b></h4>
+Lemmatization is the process of grouping the words together with the same meaning which was obtained from the tokenization process. Lemmatization is like the same way
+of stemming. So it connects words with similar sense with the other words. Text preprocessing combines both the process of stemming as well as lemmatization. Some
+treat these two as same. Actually, lemmatization is preferred over Stemming because lemmatization does morphological analysis of the words.<br>
