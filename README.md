@@ -22,3 +22,13 @@ lexical analysis.<br>
 Lemmatization is the process of grouping the words together with the same meaning which was obtained from the tokenization process. Lemmatization is like the same way
 of stemming. So it connects words with similar sense with the other words. Text preprocessing combines both the process of stemming as well as lemmatization. Some
 treat these two as same. Actually, lemmatization is preferred over Stemming because lemmatization does morphological analysis of the words.<br>
+<h4><b>iii)Removal of Stop Words</b></h4>
+The Removal of stop words is the process where the most commonly occurring words in the document are extracted and using these words would mean to contribute very
+little meaning or contribute no help in the tagging system. Stop Words are also referred as the “Bag of Words”. These bag of words are commonly occurring for example
+‘a’, ‘an’, ‘the’, etc words.<br>
+<h4><b>iv)Parts of Speech Tagging</b></h4>
+The Parts of Speech Tagging is the process of classifying each word entered in the text or sentence into its corresponding tagging system such as Noun, Verbs,
+Pronouns, Determiners, Adjectives, Interjections, Conjunctions and many more.<br>
+<h4><b>iv)Ambiguity Resolution</b></h4>
+Given a sentence with ambiguous words, its most likely to split the words into its lexical categories with various meanings for the same words based on the context
+and the information they are being referred in that particular situation.<br>
