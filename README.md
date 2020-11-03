@@ -32,3 +32,4 @@ Pronouns, Determiners, Adjectives, Interjections, Conjunctions and many more.<br
 <h4><b>iv)Ambiguity Resolution</b></h4>
 Given a sentence with ambiguous words, its most likely to split the words into its lexical categories with various meanings for the same words based on the context
 and the information they are being referred in that particular situation.<br>
+![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1170%2F1*CbZE2ZTBlmswW84Knjbqkg.png&imgrefurl=https%3A%2F%2Fmedium.com%2Fanalytics-vidhya%2Fpos-tagging-using-conditional-random-fields-92077e5eaa31&tbnid=AfAx9Vc53eu71M&vet=12ahUKEwjgtvuox-bsAhWJynMBHYRzDfcQMygAegUIARCkAQ..i&docid=UWim5wlIOufFIM&w=1170&h=545&q=parts%20of%20speech%20tagging%20in%20nlp&ved=2ahUKEwjgtvuox-bsAhWJynMBHYRzDfcQMygAegUIARCkAQ)
